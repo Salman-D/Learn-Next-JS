@@ -1,0 +1,11 @@
+.single {
+  background-color: black;
+  display: block;
+  margin: 20px 10px;
+  padding: 2px 10px;
+  color: aliceblue;
+  border-radius: 10px;
+}
+.single:hover {
+  border-left: 8px solid rgba(238, 17, 17, 0.568);
+}
